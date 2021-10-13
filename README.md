@@ -1,1 +1,1 @@
-# kindlycodelab
+# kindlyCodeLab
